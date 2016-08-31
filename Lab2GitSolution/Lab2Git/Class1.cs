@@ -9,5 +9,10 @@ namespace Lab2Git
     public class Class1
     {
         // made some changes
+
+        public int newFunction(int i)
+        {
+            return i + 1;
+        }
     }
 }
